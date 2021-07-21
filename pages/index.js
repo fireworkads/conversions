@@ -21,23 +21,12 @@ export default function Home() {
       </Head>
 
       <main className={styles.main}>
-        
-
-      
-          
-
-  
-
 <div id='div-gpt-ad-1626902753591-0' style='min-width: 300px; min-height: 90px;'>
   <script>
     googletag.cmd.push(function() { googletag.display('div-gpt-ad-1626902753591-0'); });
   </script>
 </div>
-
-          
-    
-
-      </main>
+</main>
 
 
   )
